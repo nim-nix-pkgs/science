@@ -52,11 +52,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653690146,
-        "narHash": "sha256-dK5LFWNzcQs1Gudw7bQ7TxmMYjXRzXxveuOmd9b2bzg=",
+        "lastModified": 1653696748,
+        "narHash": "sha256-qYslrQV4+6aMFk7+nA+oJm1J6E4femBXat0a69X/vsM=",
         "owner": "nim-nix-pkgs",
         "repo": "science",
-        "rev": "ebcb2e0a091010a4cc53c9368adcfb7fbcd08f1d",
+        "rev": "3fa5b1a2409336a7cb9dd809b114df71ba13ff07",
         "type": "github"
       },
       "original": {
@@ -79,11 +79,11 @@
       },
       "locked": {
         "dir": "v0_2_2",
-        "lastModified": 1653690146,
-        "narHash": "sha256-dK5LFWNzcQs1Gudw7bQ7TxmMYjXRzXxveuOmd9b2bzg=",
+        "lastModified": 1653696748,
+        "narHash": "sha256-qYslrQV4+6aMFk7+nA+oJm1J6E4femBXat0a69X/vsM=",
         "owner": "nim-nix-pkgs",
         "repo": "science",
-        "rev": "ebcb2e0a091010a4cc53c9368adcfb7fbcd08f1d",
+        "rev": "3fa5b1a2409336a7cb9dd809b114df71ba13ff07",
         "type": "github"
       },
       "original": {
